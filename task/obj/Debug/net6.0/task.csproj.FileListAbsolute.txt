@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/LindtAssel/task/bin/Debug/net6.0/task
+/Users/yeabildin/Desktop/LindtAssel/task/bin/Debug/net6.0/task.deps.json
+/Users/yeabildin/Desktop/LindtAssel/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/yeabildin/Desktop/LindtAssel/task/bin/Debug/net6.0/task.dll
+/Users/yeabildin/Desktop/LindtAssel/task/bin/Debug/net6.0/task.pdb
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.dll
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/refint/task.dll
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.pdb
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/yeabildin/Desktop/LindtAssel/task/obj/Debug/net6.0/ref/task.dll
